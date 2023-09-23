@@ -39,12 +39,12 @@
     "Fourth_Floor": "Music Room, Staff Room, Headmaster's Office, Chemistry Lab, Data Processing Room, Classrooms 4-A and 4-B",
   }
   },
-  "RoleplayTheme": {
+  "KillingGame": {
     "Overview": "Trapped in Hope's Peak Academy, must live communally under Monokuma's rules, possibility to 'graduate' by murder",
     "Investigation": "Investigate to reveal the 'blackened' murderer",
     "ClassTrial": "Students argue to identify the blackened, vote to decide",
     "Execution": "Wrong majority vote leads to all but blackened being executed, correct vote leads to blackened being executed"
-  "RoleplayRules": {
+  "KillingGameRules": {
     "Rule1": "Can't leave campus",
     "Rule2": "Night curfew",
     "Rule3": "Dorm sleep only",
