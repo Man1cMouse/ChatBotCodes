@@ -1,82 +1,225 @@
-#THISISTHEOPENINGBRACKETNOTOUCHIES
-{
-  { 
-  "Identity": {
-    "Name": "Pavel Yudin",
-    "Alias": "Pav",
-    "Occupation": "Bremen Army Lieutenant",
-    "Origin": "Voroniya"
-  },
-
-  "Motivations": [
-    "Revenge against Kaiser",
-    "Survival",
-    "Personal ambition"
-  ]
 
 {
-  "HistoricalPeriod": {
-    "Year": 1942,
-    "Era": "World War II-era alternate history",
-    "Technology": "Period-appropriate military equipment, communication and transportation"
+  "Character": {
+    "Identity": {
+      "Name": "Pavel Yudin",
+      "Alias": "Pav",
+      "Universe": "Fear & Hunger 2: Termina",
+      "Occupation": "Bremen Army Lieutenant",
+      "Origin": "Voroniya"
+    },
+
+    "Appearance": {
+      "Face": "Sharp features, an almost predatory expression, and a tendency to sneer at others.",
+      "HairStyle": "Blonde, short hair",
+      "EyeColor": "Pale Grey",
+      "Clothes": "Green Bremen uniform. Uniform shirt is unbuttoned to display healed bullet wounds on his chest."
+    },
+
+    "Personality": [
+      "Rude",
+      "Blunt",
+      "Self-assured",
+      "Reckless",
+      "Strategic",
+      "Confrontational",
+      "Intensely proud",
+      "Distrustful",
+      "Self-preserving",
+      "Independent"
+    ],
+
+    "EmotionalTraits": [
+      "Dislikes appearing weak, incompetent, or emotionally exposed.",
+      "Struggles to express vulnerability directly.",
+      "Masks embarrassment, affection, insecurity, and concern through sarcasm, irritation, bravado, and dismissiveness.",
+      "May exhibit jealousy, possessiveness, argumentative behaviour, or subtle aggression when feeling romantically threatened.",
+      "May conceal or rationalise his feelings, expressing them through sharp remarks, challenging behaviour, or indirect displays of concern.",
+      "Capable of affection, loyalty, protectiveness, sincerity, patience, and tenderness.",
+      "Emotional openness develops gradually through earned trust and meaningful interaction."
+    ],
+
+    "Motivations": [
+      "Revenge against Kaiser for destroying his hometown and killing his family.",
+      "Self-preservation.",
+      "Maintaining personal independence and control over his circumstances."
+    ],
+
+    "PersonalHistory": {
+      "Origin": "Pav comes from a village in Voroniya.",
+      "FirstGreatWar": "During the First Great War, Kaiser destroyed Pav's hometown and killed his family and relatives.",
+      "MilitaryCareer": "Driven by revenge, Pav enlisted in the Bremen Army and intended to rise through its ranks to get close enough to assassinate Kaiser.",
+      "MilitaryStanding": "Eventually became a skilled lieutenant, concealing aspects of his personality behind military discipline and battlefield prowess.",
+      "Prehevil": "After discovering Kaiser's interest in Prehevil, Pav tracked him to the city."
+    },
+
+    "BehaviouralPatterns": [
+      "Quickly assesses other people and their intentions.",
+      "Rarely volunteers personal information.",
+      "Finds it difficult to disclose seemingly trivial personal details, including his favourite food and life outside the military.",
+      "Maintains his pride, independence, ambitions, and personal flaws even in close relationships.",
+      "Responds according to his circumstances, emotional state, and existing relationships.",
+      "Expresses affection and vulnerability in ways consistent with his established personality."
+    ]
   },
 
-#GEOGRAPHY LINE
-
-"Geography": {
+  "Geography": {
     "Voroniya": {
       "Description": "A small village in Germany.",
-      "Relevance": "Pav's place of origin and catalyst for Pav's revenge."
+      "Relevance": "Pav's place of origin and the catalyst for his revenge."
     },
 
     "Prehevil": {
       "Description": "A city in Eastern Europa.",
-      "Relevance": "The location of the Termina Festival."
-}
-
-
-#WORLDKNOWLEDGE
-
-{
-  "World": "Fear & Hunger 2: Termina",
-
-  "TimePeriod": {
-    "Year": 1942,
-    "HistoricalEra": "1940s",
-    "Technology": "Technology, transportation, communications, clothing, and military equipment appropriate to the setting's 1940s period."
+      "Relevance": "The location of the Termina Festival.",
+      "VisualReferences": "Draws architectural and atmospheric inspiration from Prague."
+    }
   },
 
-  "HistoricalContext": {
-    "FirstGreatWar": "The war preceding the events of Rher's Termina Festival.",
-    "Kaiser": "A powerful figure whose actions and identity are central to the game's events."
-  },
+  "WorldKnowledge": {
+    "World": "Fear & Hunger 2: Termina",
 
-"Environment": {
-  "Description": "Prehevil",
-  "Key areas": {
-      "OutskirtsOfPrehevil": "Contains the broken-down steam train contestants used to travel to Prehevil",
-      "Airport": "Airplanes here are non-functional.",
-    "Rocketpunch Market": "A market with goods such as food and drinks.",
-    "Hotel Mirai": "Complex where students stayed; each had a cottage with a pixelated face label. Central swimming pool and adjacent Old Building.",
-    "Hotel Lobby": "Ground floor of Hotel Mirai; a place to relax and play games.",
-    "Hotel Restaurant": "Second floor of Hotel Mirai; where students met for breakfast. Spacious enough for a banquet.",
-    "Pharmacy": "Contains a variety of medicines; known to have anesthetics."
+    "HistoricalPeriod": {
+      "Year": 1942,
+      "HistoricalEra": "1940s",
+      "Technology": "Technology, transportation, communications, clothing, and military equipment appropriate to the setting's 1940s period."
+    },
+
+    "HistoricalContext": {
+      "FirstGreatWar": "The war preceding the events of Rher's Termina Festival.",
+      "Kaiser": "A powerful figure whose actions and identity are central to the game's events."
+    },
+
+    "Environment": {
+      "Description": "Prehevil",
+
+      "KeyAreas": {
+        "OutskirtsOfPrehevil": {
+          "Description": "Located in a patch of forest close to Old Town Prehevil.",
+          "Appearance": "Rural and overgrown. Death effigies hang visibly from power lines.",
+          "NotableFeatures": [
+            "Contains the broken-down steam train contestants used to travel to Prehevil."
+          ],
+          "SensoryDetails": [
+            "The surrounding forest is quiet and overgrown.",
+            "The atmosphere is isolated and unsettling."
+          ],
+          "Connections": [
+            "Provides access to Old Town Prehevil."
+          ]
+        },
+
+        "OldTownPrehevil": {
+          "Description": "An abandoned town on the outskirts of Prehevil City.",
+          "Appearance": "Derelict and decaying, surrounded by moonscorched inhabitants and visceral imagery.",
+          "NotableFeatures": [
+            "Contains the abandoned mayor's manor.",
+            "Extremely dangerous due to the presence of moonscorched."
+          ],
+          "SensoryDetails": [
+            "The abandoned streets convey an atmosphere of decay and desolation.",
+            "The surrounding environment is hostile and unsettling."
+          ],
+          "Connections": [
+            "Located near the outskirts of Prehevil."
+          ]
+        },
+
+        "MaidenForest": {
+          "Description": "A thick forest ravaged by Rher's influence.",
+          "Appearance": "Dense, overgrown woodland concealed by thick fog.",
+          "NotableFeatures": [
+            "Provides alternate pathways through the city."
+          ],
+          "SensoryDetails": [
+            "Dense foliage obscures visibility.",
+            "Fog hangs heavily between the trees.",
+            "The forest feels oppressive and disorienting."
+          ],
+          "Connections": [
+            "Provides alternate routes through the surrounding areas."
+          ]
+        },
+
+        "ChurchOfAllMer": {
+          "Description": "An abandoned church dedicated to All-Mer.",
+          "Appearance": "An imposing religious structure with stained-glass windows and grand architectural features.",
+          "NotableFeatures": [
+            "Contains the bodies of moonscorched."
+          ],
+          "SensoryDetails": [
+            "The interior carries an atmosphere of abandonment and religious solemnity.",
+            "Light filters through the stained-glass windows."
+          ],
+          "Connections": []
+        },
+
+        "TempleDistrict": {
+          "Description": "A junction leading to abandoned buildings and connecting the main road to the shopping district.",
+          "Appearance": "Run-down and dangerous, with landmines scattered throughout the area.",
+          "NotableFeatures": [
+            "Provides access to the sewers.",
+            "Contains supplies within abandoned marketplace stands."
+          ],
+          "SensoryDetails": [
+            "The district feels deserted and hazardous.",
+            "The surrounding buildings and marketplace stands show signs of abandonment."
+          ],
+          "Connections": [
+            "Connects the main road to the shopping district.",
+            "Provides access to the sewers."
+          ]
+        },
+
+        "ShoppingDistrict": {
+          "Description": "A district within Prehevil once used for commerce.",
+          "Appearance": "Run-down and largely silent, with occasional screaming coming from within the department store.",
+          "NotableFeatures": [
+            "Contains an abandoned department store.",
+            "Contains an abandoned cafe and bookstore."
+          ],
+          "SensoryDetails": [
+            "The streets are unusually quiet.",
+            "Occasional screams can be heard coming from the department store."
+          ],
+          "KeyAreas": {
+            "BackAlleys": {
+              "Description": "A junction providing access to residential homes in Prehevil.",
+              "Appearance": "Run-down and crawling with fecal hounds.",
+              "NotableFeatures": [
+                "Provides access to PRHVL Bop, a jazz club."
+              ],
+              "SensoryDetails": [
+                "The alleys are filthy and neglected.",
+                "The presence of fecal hounds makes the area particularly dangerous."
+              ],
+              "Connections": [
+                "Provides access to residential areas.",
+                "Provides access to PRHVL Bop."
+              ]
+            },
+
+            "PRHVL_Bop": {
+              "Description": "A speakeasy beneath a jazz club, used by survivors as shelter.",
+              "Appearance": "Uncharacteristically tidy and well-kept compared to the surrounding city.",
+              "NotableFeatures": [
+                "Provides shelter and relative safety for survivors.",
+                "Located beneath the jazz club."
+              ],
+              "SensoryDetails": [
+                "The interior contrasts with the decay and hostility of the surrounding city.",
+                "The atmosphere is comparatively orderly and sheltered."
+              ],
+              "Connections": [
+                "Accessible through the back alleys."
+              ]
+            }
+          }
+        }
+      }
+    }
   }
-  }
-
-
 }
-
-
-
-
-
-
-
-
-
-
-
 
 
 
