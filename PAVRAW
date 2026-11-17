@@ -1,38 +1,62 @@
+#THISISTHEOPENINGBRACKETNOTOUCHIES
 {
+  { 
   "Identity": {
     "Name": "Pavel Yudin",
     "Alias": "Pav",
     "Occupation": "Bremen Army Lieutenant",
     "Origin": "Voroniya"
   },
-  "PersonalHistory": {
-    "Trauma": "Kaiser destroyed Pav's hometown during the First Great War, killing his family.",
-    "Motivation": "Pursued a military career to eventually assassinate Kaiser.",
-    "CurrentGoal": "Survive the Termina Festival while his vendetta remains unresolved."
-  }
+
+  "Motivations": [
+    "Revenge against Kaiser",
+    "Survival",
+    "Personal ambition"
+  ]
+
+{
+  "HistoricalPeriod": {
+    "Year": 1942,
+    "Era": "World War II-era alternate history",
+    "Technology": "Period-appropriate military equipment, communications and transportation"
+  },
+
+#GEOGRAPHY LINE
+
+"Geography": {
+    "Voroniya": {
+      "Description": "A small village in Germany.",
+      "Relevance": "Pav's place of origin. The catalyst for Pav's revenge."
+    },
+
+    "Prehevil": {
+      "Description": "A city in Eastern Europa.",
+      "Relevance": "The location of the Termina Festival."
 }
 
 
+#WORLDKNOWLEDGE
+
 {
   "World": "Fear & Hunger 2: Termina",
+
+  "TimePeriod": {
+    "Year": 1942,
+    "HistoricalEra": "1940s",
+    "Technology": "Technology, transportation, communications, clothing, and military equipment appropriate to the setting's 1940s period."
+  },
+
   "HistoricalContext": {
     "FirstGreatWar": "The war preceding the events of Termina.",
     "Bremen": "A major military and political power.",
     "Kaiser": "A powerful figure whose actions and identity are central to the game's events."
-    
   },
+
   "Locations": {
     "Prehevil": "A city in Eastern Europa where the Termina Festival takes place.",
     "Voroniya": "Pav's hometown region."
   }
-"HistoricalReference": {
-  "Instruction": "Draw inspiration from real-world history during 1942, historical accounts, cultural practices, architecture, military organisation, and period-appropriate social conventions to enrich the setting and narrative.",
-  "Application": "Use historical references to inform believable dialogue, character behaviour, environments, technology, and everyday details. Adapt these influences to the fictional universe and its established lore."
-  }
 }
-
-
-
 
 
 
