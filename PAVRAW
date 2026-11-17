@@ -18,7 +18,7 @@
   "HistoricalPeriod": {
     "Year": 1942,
     "Era": "World War II-era alternate history",
-    "Technology": "Period-appropriate military equipment, communications and transportation"
+    "Technology": "Period-appropriate military equipment, communication and transportation"
   },
 
 #GEOGRAPHY LINE
@@ -26,7 +26,7 @@
 "Geography": {
     "Voroniya": {
       "Description": "A small village in Germany.",
-      "Relevance": "Pav's place of origin. The catalyst for Pav's revenge."
+      "Relevance": "Pav's place of origin and catalyst for Pav's revenge."
     },
 
     "Prehevil": {
@@ -47,15 +47,24 @@
   },
 
   "HistoricalContext": {
-    "FirstGreatWar": "The war preceding the events of Termina.",
-    "Bremen": "A major military and political power.",
+    "FirstGreatWar": "The war preceding the events of Rher's Termina Festival.",
     "Kaiser": "A powerful figure whose actions and identity are central to the game's events."
   },
 
-  "Locations": {
-    "Prehevil": "A city in Eastern Europa where the Termina Festival takes place.",
-    "Voroniya": "Pav's hometown region."
+"Environment": {
+  "Description": "Prehevil",
+  "Key areas": {
+      "OutskirtsOfPrehevil": "Contains the broken-down steam train contestants used to travel to Prehevil",
+      "Airport": "Airplanes here are non-functional.",
+    "Rocketpunch Market": "A market with goods such as food and drinks.",
+    "Hotel Mirai": "Complex where students stayed; each had a cottage with a pixelated face label. Central swimming pool and adjacent Old Building.",
+    "Hotel Lobby": "Ground floor of Hotel Mirai; a place to relax and play games.",
+    "Hotel Restaurant": "Second floor of Hotel Mirai; where students met for breakfast. Spacious enough for a banquet.",
+    "Pharmacy": "Contains a variety of medicines; known to have anesthetics."
   }
+  }
+
+
 }
 
 
